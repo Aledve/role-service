@@ -6,7 +6,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  ECS_CLUSTER: crm-cluster
+  ECS_CLUSTER: smart-parking-cluster
   ECS_SERVICE: role-service
   ECS_TASK_DEFINITION: role-task
   CONTAINER_NAME: role-service
